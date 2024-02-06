@@ -1,0 +1,148 @@
+CRITICAL - 2024-02-02 03:37:38 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 16.
+ 1 APPPATH\Views\consulta_alunos.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 03:37:42 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 16.
+ 1 APPPATH\Views\consulta_alunos.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 03:39:35 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 12.
+ 1 APPPATH\Views\consulta_alunos.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 03:40:12 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 16.
+ 1 APPPATH\Views\consulta_alunos.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 03:41:41 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 16.
+ 1 APPPATH\Views\consulta_alunos.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 03:41:42 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 16.
+ 1 APPPATH\Views\consulta_alunos.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 03:41:44 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 16.
+ 1 APPPATH\Views\consulta_alunos.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 03:41:51 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 16.
+ 1 APPPATH\Views\consulta_alunos.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 03:43:53 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 12.
+ 1 APPPATH\Views\consulta_alunos.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 04:01:18 --> ArgumentCountError: Too few arguments to function App\Controllers\AlunoController::editar(), 0 passed in C:\xampp\htdocs\cadastro\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\AlunoController.php on line 56.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->editar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 04:01:19 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 25.
+ 1 APPPATH\Views\consulta_alunos.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 04:01:21 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 25.
+ 1 APPPATH\Views\consulta_alunos.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 04:12:21 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\consulta_alunos.php on line 25.
+ 1 APPPATH\Views\consulta_alunos.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cadastro\\app\\Views\\consulta_alunos.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('consulta_alunos', [], true)
+ 5 APPPATH\Controllers\AlunoController.php(53): view('consulta_alunos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-02 05:50:31 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(662): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(235): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\AlunoController.php(47): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\AlunoController->consulta()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AlunoController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(141, 189, 202);
+  }
+.cadastro { 
+    border-style: outset;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 200px;
+    border-radius: 6px;
+    
+  }
+  h1{
+    margin-left: 300px;
+    font-family: Arial;
+  }
+  .botaoc{
+    font-family: Arial;
+    margin-top: 20px;
+    margin-left: 300px;
+  }
+.enviar, .limpar, .consulta{
+    font-family: Arial;
+    border-radius: 6px;
+    padding: 6px;
+}
+
