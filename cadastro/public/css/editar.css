@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(141, 189, 202);
+}
+
+.editar{ 
+    border-style: outset;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 180px;
+    border-radius: 6px;
+    
+}
+.desc{
+    margin-left: 380px;
+    font-family: Arial;
+}
+.botaoe{
+    font-family: Arial;
+    border-radius: 6px;
+    padding: 6px;
+    margin-right: 200px;
+    
+
+}
+.botaoa{
+    
+    font-family: Arial;
+    margin-right: 150px;
+    margin-left: 300px;
+    border-radius: 6px;   
+    margin-top: 10px; 
+    margin-bottom: 20px;
+}
